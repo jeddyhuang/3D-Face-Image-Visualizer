@@ -1,0 +1,225 @@
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.UI.OpenTK.exe.config
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.UI.OpenTK.exe
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.UI.OpenTK.pdb
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\OpenTK.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\OpenTK.pdb
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\OpenTK.xml
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.csprojResolveAssemblyReference.cache
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.Properties.Resources.resources
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.csproj.GenerateResource.Cache
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.exe
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.pdb
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\concrt140.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\cvextern.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\msvcp140.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\vcruntime140.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\concrt140.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\cvextern.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\msvcp140.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\vcruntime140.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A.mtl
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A1.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A2.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A3.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E.mtl
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E1.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E2.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E3.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E1.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E2.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E3.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A1.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A2.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A3.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.Framework.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\Emgu.CV.World.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.Framework.pdb
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.pdb
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\Emgu.CV.World.xml
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E.obj
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B.mtl
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B.obj
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B1.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B2.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B3.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C.mtl
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C.obj
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C1.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C2.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C3.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D.mtl
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D.obj
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D1.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D2.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D3.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F.mtl
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F.obj
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F1.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F2.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F3.pos
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B1.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B2.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B3.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C1.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C2.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C3.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D1.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D2.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D3.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F1.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F2.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F3.jpg
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A.obj
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.UI.OpenTK.exe.config
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.exe
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.pdb
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\concrt140.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\cvextern.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\msvcp140.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\vcruntime140.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\concrt140.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\cvextern.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\msvcp140.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\vcruntime140.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A.mtl
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A.obj
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A1.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A2.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A3.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B.mtl
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B.obj
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B1.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B2.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B3.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C.mtl
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C.obj
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C1.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C2.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C3.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D.mtl
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D.obj
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D1.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D2.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D3.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E.mtl
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E.obj
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E1.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E2.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E3.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F.mtl
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F.obj
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F1.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F2.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F3.pos
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B1.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B2.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B3.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C1.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C2.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C3.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D1.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D2.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D3.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F1.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F2.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F3.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E1.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E2.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E3.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A1.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A2.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A3.jpg
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.UI.OpenTK.exe
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.UI.OpenTK.pdb
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\OpenTK.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.Framework.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\Emgu.CV.World.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.Framework.pdb
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.pdb
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\OpenTK.pdb
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\OpenTK.xml
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\Emgu.CV.World.xml
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.csprojResolveAssemblyReference.cache
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.Properties.Resources.resources
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.csproj.GenerateResource.Cache
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.UI.OpenTK.exe.config
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.exe
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.pdb
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\concrt140.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\cvextern.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\msvcp140.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x64\vcruntime140.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\concrt140.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\cvextern.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\msvcp140.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\x86\vcruntime140.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A.mtl
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A.obj
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A1.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A2.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A3.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B.mtl
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B.obj
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B1.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B2.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B3.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C.mtl
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C.obj
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C1.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C2.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C3.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D.mtl
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D.obj
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D1.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D2.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D3.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E.mtl
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E.obj
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E1.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E2.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E3.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F.mtl
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F.obj
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F1.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F2.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F3.pos
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B1.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B2.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\B\B3.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C1.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C2.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\C\C3.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D1.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D2.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\D\D3.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F1.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F2.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\F\F3.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E1.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E2.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\E\E3.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A1.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A2.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\TestData\A\A3.jpg
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.UI.OpenTK.exe
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.UI.OpenTK.pdb
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\OpenTK.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.Framework.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\Emgu.CV.World.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.Framework.pdb
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\S3.pdb
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\OpenTK.pdb
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\OpenTK.xml
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\bin\Debug\Emgu.CV.World.xml
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.csprojResolveAssemblyReference.cache
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.Properties.Resources.resources
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.UI.OpenTK\obj\Debug\S3.UI.OpenTK.csproj.GenerateResource.Cache

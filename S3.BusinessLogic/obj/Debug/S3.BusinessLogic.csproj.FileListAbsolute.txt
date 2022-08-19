@@ -1,0 +1,110 @@
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\concrt140.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\cvextern.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\msvcp140.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\vcruntime140.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\concrt140.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\cvextern.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\msvcp140.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\vcruntime140.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\S3.BusinessLogic.dll.config
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\S3.BusinessLogic.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\S3.BusinessLogic.pdb
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\Emgu.CV.UI.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\Emgu.CV.World.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\FileHelpers.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\ZedGraph.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\Emgu.CV.UI.xml
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\Emgu.CV.World.xml
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\FileHelpers.xml
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\ZedGraph.xml
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\de\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\es\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\fr\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\hu\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\it\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\ja\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\pt\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\ru\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\sk\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\sv\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\tr\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\obj\Debug\S3.BusinessLogic.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.BusinessLogic\obj\Debug\S3.BusinessLogic.pdb
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\concrt140.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\cvextern.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\msvcp140.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\vcruntime140.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\concrt140.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\cvextern.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\msvcp140.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\vcruntime140.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\S3.BusinessLogic.dll.config
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\S3.BusinessLogic.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\S3.BusinessLogic.pdb
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\Emgu.CV.UI.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\Emgu.CV.World.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\FileHelpers.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\ZedGraph.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\Emgu.CV.UI.xml
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\Emgu.CV.World.xml
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\FileHelpers.xml
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\ZedGraph.xml
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\obj\Debug\S3.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\obj\Debug\S3.BusinessLogic.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.BusinessLogic\obj\Debug\S3.BusinessLogic.pdb
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\concrt140.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\cvextern.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\msvcp140.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x64\vcruntime140.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\concrt140.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\cvextern.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\msvcp140.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\x86\vcruntime140.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\S3.BusinessLogic.dll.config
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\S3.BusinessLogic.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\S3.BusinessLogic.pdb
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\Emgu.CV.UI.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\Emgu.CV.World.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\FileHelpers.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\ZedGraph.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\Emgu.CV.UI.xml
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\Emgu.CV.World.xml
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\FileHelpers.xml
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\ZedGraph.xml
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\obj\Debug\S3.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\obj\Debug\S3.BusinessLogic.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.BusinessLogic\obj\Debug\S3.BusinessLogic.pdb

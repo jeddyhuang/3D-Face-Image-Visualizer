@@ -1,0 +1,15 @@
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.Framework\bin\Debug\S3.Framework.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.Framework\bin\Debug\S3.Framework.pdb
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.Framework\obj\Debug\S3.Framework.dll
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.Framework\obj\Debug\S3.Framework.pdb
+C:\MyProject\IUPUI\ThesisResearch\S3\S3.Framework\obj\Debug\S3.Framework.csprojResolveAssemblyReference.cache
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.Framework\bin\Debug\S3.Framework.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.Framework\bin\Debug\S3.Framework.pdb
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.Framework\obj\Debug\S3.Framework.csprojResolveAssemblyReference.cache
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.Framework\obj\Debug\S3.Framework.dll
+C:\Users\rxiao\Desktop\ThesisResearch\S3\S3.Framework\obj\Debug\S3.Framework.pdb
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.Framework\bin\Debug\S3.Framework.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.Framework\bin\Debug\S3.Framework.pdb
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.Framework\obj\Debug\S3.Framework.dll
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.Framework\obj\Debug\S3.Framework.pdb
+C:\Users\rxiao\Desktop\Rubin's Research\ThesisResearch\S3\S3.Framework\obj\Debug\S3.Framework.csprojResolveAssemblyReference.cache

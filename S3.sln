@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3.UI", "S3.UI\S3.UI.csproj", "{56FAA3A0-ABBF-4DCA-9039-637E5B4DCD95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3.BusinessLogic", "S3.BusinessLogic\S3.BusinessLogic.csproj", "{7A48129F-D514-4457-82E4-2746D175453A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3.Framework", "S3.Framework\S3.Framework.csproj", "{892D9EC8-D59F-49E3-9211-F23FDAFE1E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3.Test", "S3.Test\S3.Test.csproj", "{A29D106F-0008-493F-8460-D3CB116D638F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{5446979E-E7AD-49D6-84D8-5A5D12FF2B96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3.UI.OpenTK", "S3.UI.OpenTK\S3.UI.OpenTK.csproj", "{69017AA2-6BD5-4158-A87B-99B4EF25B1CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3", "S3\S3.csproj", "{B3BCFBFF-22BC-4D2B-94DD-C50B0BA0C39D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FAA3A0-ABBF-4DCA-9039-637E5B4DCD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FAA3A0-ABBF-4DCA-9039-637E5B4DCD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FAA3A0-ABBF-4DCA-9039-637E5B4DCD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FAA3A0-ABBF-4DCA-9039-637E5B4DCD95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A48129F-D514-4457-82E4-2746D175453A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A48129F-D514-4457-82E4-2746D175453A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A48129F-D514-4457-82E4-2746D175453A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A48129F-D514-4457-82E4-2746D175453A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892D9EC8-D59F-49E3-9211-F23FDAFE1E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892D9EC8-D59F-49E3-9211-F23FDAFE1E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892D9EC8-D59F-49E3-9211-F23FDAFE1E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892D9EC8-D59F-49E3-9211-F23FDAFE1E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29D106F-0008-493F-8460-D3CB116D638F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29D106F-0008-493F-8460-D3CB116D638F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29D106F-0008-493F-8460-D3CB116D638F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29D106F-0008-493F-8460-D3CB116D638F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69017AA2-6BD5-4158-A87B-99B4EF25B1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69017AA2-6BD5-4158-A87B-99B4EF25B1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69017AA2-6BD5-4158-A87B-99B4EF25B1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69017AA2-6BD5-4158-A87B-99B4EF25B1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3BCFBFF-22BC-4D2B-94DD-C50B0BA0C39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BCFBFF-22BC-4D2B-94DD-C50B0BA0C39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BCFBFF-22BC-4D2B-94DD-C50B0BA0C39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BCFBFF-22BC-4D2B-94DD-C50B0BA0C39D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A29D106F-0008-493F-8460-D3CB116D638F} = {5446979E-E7AD-49D6-84D8-5A5D12FF2B96}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://o0rubinx0o.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = S3.UI\\S3.UI.csproj
+		SccProjectName1 = S3.UI
+		SccLocalPath1 = S3.UI
+		SccProjectUniqueName2 = S3.BusinessLogic\\S3.BusinessLogic.csproj
+		SccProjectName2 = S3.BusinessLogic
+		SccLocalPath2 = S3.BusinessLogic
+		SccProjectUniqueName3 = S3.Framework\\S3.Framework.csproj
+		SccProjectName3 = S3.Framework
+		SccLocalPath3 = S3.Framework
+		SccProjectUniqueName4 = S3.Test\\S3.Test.csproj
+		SccProjectTopLevelParentUniqueName4 = S3.sln
+		SccProjectName4 = S3.Test
+		SccLocalPath4 = S3.Test
+		SccProjectUniqueName5 = S3.UI.OpenTK\\S3.UI.OpenTK.csproj
+		SccProjectName5 = S3.UI.OpenTK
+		SccLocalPath5 = S3.UI.OpenTK
+		SccProjectUniqueName6 = S3\\S3.csproj
+		SccProjectName6 = S3
+		SccLocalPath6 = S3
+	EndGlobalSection
+EndGlobal
